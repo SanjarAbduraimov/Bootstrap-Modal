@@ -1,2 +1,2 @@
 # Modal
-https://sanjarabduraimov.github.io/Modal/
+https://sanjarabduraimov.github.io/Bootstrap-Modal/
